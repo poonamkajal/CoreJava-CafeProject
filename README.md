@@ -10,6 +10,7 @@ In the Coffee class, add the boolean attributes, sugar and milk. Create a no-arg
 In the Espresso class, add the boolean attributes extraShot and macchiato and complete the process as with the Coffee class. In the calculateProductSubtotal method, add $2.00 to each item with an extra shot and add $1.00 to each item made in macchiato style.
 In the Cappuccino class, add the boolean attributes peppermint and whippedCream and complete the rest of the class as with the Coffee and Espresso classes. In the calculateProductSubtotal method, add $2.00 to each item with peppermint and add $1.00 to each item with whipped cream.
 Rewrite the CafeApp class to utilize the Scanner class to accept orders for each product and, as before, print the name, description, quantity, and product subtotal for each item along with the sales subtotal, sales tax, and sales total.
+
 Project 3
 We will continue the Cafe concept for this exercise.
 Create two new abstract methods in the Product class: addOptions() and printOptions(); Implement these methods in each of the subclasses.
